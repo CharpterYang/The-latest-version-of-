@@ -23,7 +23,7 @@
 3. 結論のまとめ
 上記の2つの研究目的を達成した後、その中の研究結果をまとめ、論文の研究意義を実現する。 
 ### 【参考文献】
-<br>1 [英] Simon Kemp, DIGITAL 2019: GLOBAL DIGITAL OVERVIEW，DATAREPORTAL 2019年１月31日UTC、URL: https://datareportal.com/reports/digital-2019-global-digital-overview 
+1 [英] Simon Kemp, DIGITAL 2019: GLOBAL DIGITAL OVERVIEW，DATAREPORTAL 2019年１月31日UTC、URL: https://datareportal.com/reports/digital-2019-global-digital-overview 
 <br>2 [英] Allport, G.W., Postman, L.. The Psychology of Rumor. NewYork: HenryHolt,　1947年
 <br>3 [日]　原因不明のウイルス性肺炎、中国・武漢で感染者続出　新型ウイルスか.　CNN，2020年１月7日
 <br>4 [日] 沼田健哉. 流言の社会心理学. 桃山学院大学社会学論集，1989年3月
